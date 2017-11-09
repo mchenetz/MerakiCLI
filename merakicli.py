@@ -44,3 +44,4 @@ if sys.argv[1] == 'post':
     result = merakiPost(sys.argv[2], totalarg)
     print(result)
 
+
